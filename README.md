@@ -1,4 +1,4 @@
-Meta Ad Performance Analysis – Project Overview
+**Meta Ad Performance Analysis – Project Overview**
 
 This project delivers a comprehensive analysis of advertising performance across Facebook and Instagram, using an integrated Power BI dashboard. It evaluates user engagement, audience demographics, and campaign efficiency to support data-driven marketing decisions.
 
