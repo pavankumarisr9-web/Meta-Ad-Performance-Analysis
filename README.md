@@ -157,27 +157,27 @@ Enhances drill-down capability for deeper insights.
 
 **Insights Enabled by the Dashboard**
 
-Identify which platform drives higher reach and engagement.
+- Identify which platform drives higher reach and engagement.
 
-Assess demographic performance across gender and age groups.
+- Assess demographic performance across gender and age groups.
 
-Determine which countries contribute the strongest results.
+- Determine which countries contribute the strongest results.
 
-Analyze time-of-day and day-of-week engagement patterns.
+- Analyze time-of-day and day-of-week engagement patterns.
 
-Evaluate campaign ROI by comparing budget vs outcomes.
+- Evaluate campaign ROI by comparing budget vs outcomes.
 
-Monitor user behavior trends and ad effectiveness.
+- Monitor user behavior trends and ad effectiveness.
 
 **Business Value**
 
-This solution empowers marketing teams to:
+- This solution empowers marketing teams to:
 
-Optimize targeting strategies
+- Optimize targeting strategies
 
-Improve creative and audience alignment
+- Improve creative and audience alignment
 
-Allocate budget more efficiently
+- Allocate budget more efficiently
 
 Track campaign health in real time
 
